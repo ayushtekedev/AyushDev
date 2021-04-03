@@ -57,21 +57,3 @@ img{
 .main a:hover{
   color: #FF00E0;
 }
-.player{
-  -webkit-tap-highlight-color: transparent;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;user-select: none;
-}
-audio::-webkit-media-controls-play-button,
-     audio::-webkit-media-controls-panel {
-     background-color: #ffffff;
-     color: #Ffffff;
-     border: none;
-}
-element{outline:none;}
-input:focus {
-    outline: none !important;
-}
