@@ -7,7 +7,9 @@ body{
   -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;user-select: none;
-  background-color: #212444;
+  background : #00AFF1;
+  background-repeat: no-repeat;
+  
 }
 .content{
   padding: 50px 10px 10px 10px;
