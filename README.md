@@ -1,6 +1,8 @@
 # Kavishka
 Kavishka.me portfolio site
 
+[![Build Status](https://travis-ci.org/{K-136}/{Kavishka}.png?branch=master)](https://travis-ci.org/{K-136}/{Kavishka})
+
 > This is just a static website. Designed by using css and html..
 [Link](https://kavishka.me)
 
