@@ -1,2 +1,1 @@
-//VIIVIIVII
-//DIVRKVIIVIIVII
+console.log("© KIIIIVI 2021")
