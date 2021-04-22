@@ -26,6 +26,7 @@ body{
   transition: 0.3s
 }
 .socialbutton:hover{
+  cursor: pointer;
   height: 20px;
   color:#42445A;
   text-decoration: none;
