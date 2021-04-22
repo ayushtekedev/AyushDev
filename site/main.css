@@ -34,7 +34,8 @@ body{
   margin:10px;
   background-color:#00E1FF;
   border: none;
-}
+  box-shadow: 2px 5px 10px rgba(005, 225, 225, .71) ;
+}#42445A
 .socialbutton:focus {
   border-color: inherit;
   -webkit-box-shadow: none;
