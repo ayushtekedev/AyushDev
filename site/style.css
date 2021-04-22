@@ -11,6 +11,30 @@ body{
   background-repeat: no-repeat;
   
 }
+.socialbutton{
+  color:#00E1FF;
+  text-decoration: none;
+  font-size: 20px;
+  margin:10px;
+  background-color: #42445A;
+  padding: 10px;
+  border-radius: 50%;
+  border: none;
+}
+.socialbutton:hover{
+  color:#42445A;
+  text-decoration: none;
+  font-size: 20px;
+  margin:10px;
+  background-color:#00E1FF;
+  border: none;
+}
+.socialbutton:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  outline:none
+}
 .content{
   padding: 50px 10px 10px 10px;
   text-align: center;
