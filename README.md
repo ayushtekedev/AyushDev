@@ -93,6 +93,6 @@ img{
   color: #FF00E0;
 }
 ```
-> nah.! It's too small... You got pranked babe😂
+> nah.! It's too small..😅
 
 ![Website](https://cdn.kavishka.me/Img/logo.png)
