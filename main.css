@@ -1,0 +1,97 @@
+body{
+  text-align: center;
+  font-family: 'New Tegomin', serif;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;user-select: none;
+  background :#01B9D1;
+  background-repeat: no-repeat;
+  
+}
+.socialbutton{
+  align-items: center;
+  align-content: center;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  color:#00E1FF;
+  text-decoration: none;
+  font-size: 20px;
+  margin:10px;
+  background-color: #42445A;
+  padding: 10px;
+  border-radius: 50%;
+  border: none;
+  transition: 0.3s
+}
+.socialbutton:hover{
+  cursor: pointer;
+  height: 20px;
+  color:#42445A;
+  text-decoration: none;
+  font-size: 20px;
+  margin:10px;
+  background-color:#00E1FF;
+  border: none;
+  box-shadow: 2px 5px 10px rgba(005, 225, 225, .71) ;
+}#42445A
+.socialbutton:focus {
+  outline:none !important;
+}
+.socialbutton:hover:focus {
+  outline:none !important;
+}
+.content{
+  padding: 50px 10px 10px 10px;
+  text-align: center;
+  border-radius: 5px;
+  justify-content: center;
+  margin: 20px auto;
+  background: white;
+  width: 90vw;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.pic{
+  background-image: url(https://cdn.kavishka.me/Img/logo.png);
+  background-size: contain;
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  cursor: not-allowed;
+  position: relative;
+  top: 50px;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.main{
+  background-color: #FFFFFF;
+  position: relative;
+  border-radius: 5px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+  margin: 20px;
+  padding:10px;
+  display: block;
+}
+.content a{
+  text-decoration: none;
+  font-weight: 700;
+  color :#00E1FF;
+}
+.content a:hover{
+  color: #FF00E0;
+}
+.main a{
+  text-decoration: none;
+  font-weight: 700;
+  color :#00E1FF;
+}
+.main a:hover{
+  color: #FF00E0;
+}
+/*KIIIIVI*/
