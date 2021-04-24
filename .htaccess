@@ -1,0 +1,16 @@
+<Files ~ "\.js$">
+    order allow,deny
+    deny from all
+</Files>
+<Files ~ "\.css$">
+    order allow,deny
+    deny from all
+</Files>
+<Files ~ "\.png$">
+    order allow,deny
+    deny from all
+</Files>
+<Files ~ "\.mp3$">
+    order allow,deny
+    deny from all
+</Files>
